@@ -1,4 +1,4 @@
-Hello world from remote repository!
+Hello world from remote repository! 18.02
 Hello world!
 Hello world!
 Hello world!
